@@ -151,7 +151,7 @@ Diego Oliveira trindade|Corrida 7KM
 Douglas Moreira leal|Corrida 7KM
 Ediana cruz dos Santos|Caminhada 3KM
 Ediane oliveira Santana|Corrida 7KM
-Edilene dos Santos Soares|Corrida 7KM
+Edilene dos Santos Soares|Caminhada 3KM
 Edilma Silva|Caminhada 3KM
 Edina conceição ferreira dos Santos Santana|Corrida 7KM
 Edionara S. S. dos Santos|Corrida 7KM
@@ -181,6 +181,7 @@ Elleine de Jesus Oliveira|Corrida 7KM
 Emanuel Lucas Pereira Dias|Corrida 7KM
 Enzo Cruz Santana|Corrida 7KM
 Erica de Jesus Almeida|Caminhada 3KM
+Erica Almeida de Jesus|Corrida 7KM
 Érica Pereira dos Santos|Corrida 7KM
 Erick Luiz santos da Silva|Corrida 7KM
 Erick Oliveira Santos|Corrida 7KM
@@ -290,7 +291,7 @@ Jadiel Benjamin Ferreira Soglia|Corrida 7KM
 Jadson dos santos|Corrida 7KM
 Jadson Evangelista de Jesus|Corrida 7KM
 Jáfi Barbosa Santos|Corrida 7KM
-Jailane Souza Nunes|Caminhada 3KM
+Jailane Souza Nunes|Corrida 7KM
 Jaíne Barbosa Oliveira|Corrida 7KM
 Jamile Carvalho Leal|Corrida 7KM
 Jamile Neri Oliveira Argolo|Corrida 7KM
