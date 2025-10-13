@@ -37,7 +37,7 @@ Amanda Miranda Barreto Santos|Corrida 7KM
 Amanda Ribeiro Brandao|Corrida 7KM
 Ana Carolina Barreto Castro Santos|Corrida 7KM
 Ana Carolina jesus da silva|Corrida 7KM
-Ana Caroline Oliveira dos Santos|Caminhada 3KM
+Ana Caroline Oliveira dos Santos|Corrida 7KM
 Ana Cecília do Carmo Trindade|Corrida 7KM
 Ana Claudia Cardoso|Caminhada 3KM
 Ana Luiza Alves Santos|Corrida 7KM
@@ -518,6 +518,7 @@ Patrine Pimentel Santos de Andrade|Corrida 7KM
 Paulo Cesar Borges Resende|Corrida 7KM
 Paulo Henrique Souza da hora santos|Corrida 7KM
 Paulo Ricardo dos Santos Nogueira|Corrida 7KM
+Paulo César Figueiredo Souza Júnior|Corrida 7KM
 Paulo Rodrigo Almeida Silva|Corrida 7KM
 Paulo Sérgio Eloy da Silva Júnior|Corrida 7KM
 Paulo Victor santos silva|Corrida 7KM
