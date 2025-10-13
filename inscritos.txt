@@ -11,7 +11,7 @@ Aialla Meira Guimarães Pitombo|Corrida 7KM
 Aira isabel moura miranda souza|Caminhada 3KM
 Alan Miranda Souza|Corrida 7KM
 Alana Castro Cerqueira|Corrida 7KM
-Alane Rosário Silva|Caminhada 3KM
+Alane Rosário Silva|Corrida 7KM
 Albene Ramos Galvão Dias de Oliveira|Caminhada 3KM
 Alécio Moraes dos Santos|Corrida 7KM
 Alesio Silva de Andrade|Corrida 7KM
@@ -86,7 +86,7 @@ Cailane Santos Sales|Caminhada 3KM
 Cailane silva gomes|Caminhada 3KM
 Carina Cerqueira Barreto|Caminhada 3KM
 Carla K Almeida|Corrida 7KM
-Carla samoli de oliveira|Corrida 7KM
+Carla Samali de oliveira|Corrida 7KM
 Carlos Alberto Queiroz da Silva|Corrida 7KM
 Carlos Daniel Queiroz de Oliveira|Corrida 7KM
 Carlos Henri de Jesus Santos|Corrida 7KM
@@ -210,7 +210,7 @@ Fabricia helena silva andrade|Corrida 7KM
 Fabrício de jesus da Silva|Corrida 7KM
 Fátima Pereira dos Santos|Corrida 7KM
 Fernanda Acácia de Brito|Corrida 7KM
-Fernando Esperidião Neto|Caminhada 3KM
+Fernando Esperidião Neto|Corrida 7KM
 Flávio Rocha Santos|Corrida 7KM
 Francielle do Carmo trindade Santos|Corrida 7KM
 Francisca Chinneya Chaves Rodrigues dos Santos|Corrida 7KM
@@ -347,6 +347,7 @@ José Elson Almeida da Silva|Corrida 7KM
 José Fernando Santos Marcal|Corrida 7KM
 José nilton de jesus Bispo filho|Corrida 7KM
 José Roberto Andrade Silva Filho|Corrida 7KM
+Jose roberto Araujo Dal|Corrida 7KM
 jose roberto araujo de jesus|Corrida 7KM
 Josélia de jesus|Corrida 7KM
 Josias Araújo Pereira|Corrida 7KM
@@ -631,7 +632,7 @@ Tifane de Jesus Santos|Corrida 7KM
 Uellington Costa martins|Corrida 7KM
 Uly Miranda Ferreira|Corrida 7KM
 Valder da conceição Silva|Corrida 7KM
-Valdice Rodrigues Braga|Caminhada 3KM
+Valdice Rodrigues Braga|Corrida 7KM
 Valdineia Andrade Santos|Corrida 7KM
 Valdineia Silva Gomes|Corrida 7KM
 Valdir amorim dos santos|Corrida 7KM
