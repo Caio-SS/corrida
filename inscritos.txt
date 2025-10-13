@@ -85,7 +85,7 @@ Bruno Stefany Ribeiro dos Santos Oliveira|Corrida 7KM
 Cailane Santos Sales|Caminhada 3KM
 Cailane Silva Gomes|Caminhada 3KM
 Carina Cerqueira Barreto|Caminhada 3KM
-Carla K Almeida|Corrida 7KM
+Carla K Almeida|Caminhada 3KM
 Carla Samali de Oliveira|Corrida 7KM
 Carlos Alberto Queiroz da Silva|Corrida 7KM
 Carlos Daniel Queiroz de Oliveira|Corrida 7KM
@@ -123,7 +123,7 @@ Daiane Silva do Nascimento|Corrida 7KM
 Daiane Silva dos Anjos|Corrida 7KM
 Daíse Guedes|Corrida 7KM
 Daíse Silva Santos Guedes|Corrida 7KM
-Daniel de Jesus Santos|Caminhada 3KM
+Daniel de Jesus Santos|Corrida 7KM
 Daniela Araújo de Deus|Caminhada 3KM
 Daniela Arcanjo de Santana|Corrida 7KM
 Daniela dos Santos Correia|Corrida 7KM
@@ -210,6 +210,7 @@ Fabricia Helena Silva Andrade|Caminhada 3KM
 Fabrício de Jesus da Silva|Corrida 7KM
 Fátima Pereira dos Santos|Corrida 7KM
 Fernanda Acácia de Brito|Corrida 7KM
+Fernanda Araújo|Corrida 7KM
 Fernando Esperidião Neto|Corrida 7KM
 Flávio Rocha Santos|Corrida 7KM
 Francielle do Carmo Trindade Santos|Corrida 7KM
@@ -343,7 +344,7 @@ Jonhy Rodrigues de Oliveira|Corrida 7KM
 Jorge Luiz Palmito Rocha|Corrida 7KM
 Jorge Pereira da Silva|Corrida 7KM
 José Carlos Moraes|Corrida 7KM
-José Cosme Souza Sales|Caminhada 3KM
+José Cosme Souza Sales|Corrida 7KM
 José Elson Almeida da Silva|Corrida 7KM
 José Fernando Santos Marçal|Corrida 7KM
 José Nilton de Jesus Bispo Filho|Corrida 7KM
@@ -372,7 +373,7 @@ Keroly Silva Fonseca|Corrida 7KM
 Késia Santos de Oliveira|Corrida 7KM
 Kevin Brito|Corrida 7KM
 Kezia Ramos Carvalho|Corrida 7KM
-Lafaele Cardoso de Souza Miranda|Caminhada 3KM
+Lafaele Cardoso de Souza Miranda|Corrida 7KM
 Laiana Cruz de Souza|Caminhada 3KM
 Laila Vitória Oliveira dos Santos|Corrida 7KM
 Laline Mascarenhas Santos|Corrida 7KM
@@ -385,7 +386,7 @@ Leandra Pereira Mota|Corrida 7KM
 Leandra Santos de Souza|Corrida 7KM
 Leandro dos Santos Oliveira|Corrida 7KM
 Leonardo Souza da Silva|Corrida 7KM
-Leandro Queiroz de Azevedo|Caminhada 3KM
+Leandro Queiroz de Azevedo|Corrida 7KM
 Leoni Leal dos Santos Ramos|Corrida 7KM
 Leticia Souza de Oliveira|Corrida 7KM
 Levi Santos de Oliveira|Corrida 7KM
@@ -422,7 +423,7 @@ Luiz Paulo Jesus Leite|Corrida 7KM
 Luiz Roberto Pires da Silva|Corrida 7KM
 Luizane Oliveira Santos Cruz|Corrida 7KM
 Luzia Silva Passos Carneiro Soares|Caminhada 3KM
-Luzinete Silva dos Santos|Caminhada 3KM
+Luzinete Silva dos Santos|Corrida 7KM
 Mádio Gonçalves dos Santos|Corrida 7KM
 Mael dos Santos Braga|Corrida 7KM
 Magnólia de Jesus Santos|Corrida 7KM
@@ -472,7 +473,7 @@ Marli dos Santos Braga|Corrida 7KM
 Marlúcia Rosa Ramos Dias|Corrida 7KM
 Marta Laís Garcês de Oliveira|Corrida 7KM
 Marta Oliveira|Corrida 7KM
-Mateus de Oliveira Fernandes|Caminhada 3KM
+Mateus de Oliveira Fernandes|Corrida 7KM
 Mateus Leite Oliveira|Corrida 7KM
 Mateus Moura Oliveira|Corrida 7KM
 Mateus Souza Barbosa|Corrida 7KM
@@ -502,7 +503,7 @@ Natália Rodrigues Lima|Corrida 7KM
 Natalice Ribeiro de Santana|Corrida 7KM
 Natasha Queiroz Peres|Caminhada 3KM
 Naura de Souza Barbosa de Brito|Corrida 7KM
-Nelson Borges Simão Medrado|Caminhada 3KM
+Nelson Borges Simão Medrado|Corrida 7KM
 Neuma Lima dos Santos|Corrida 7KM
 Nilcelia de Araújo Nunes Amaral|Corrida 7KM
 Nilton Cloves Costa de Santana|Corrida 7KM
@@ -569,7 +570,7 @@ Rogério Santos Sales|Corrida 7KM
 Rogiel Cerqueina Neto|Caminhada 3KM
 Romário de Jesus Santos|Corrida 7KM
 Romilda Santos de Santana|Caminhada 3KM
-Rômulo de Jesus Teixeira|Caminhada 3KM
+Rômulo de Jesus Teixeira|Corrida 7KM
 Ronaldo Luis Alves Couto|Corrida 7KM
 Ronny Mackon Santana Cerqueira|Corrida 7KM
 Roque Henrique Dias Prazeres|Corrida 7KM
@@ -593,7 +594,7 @@ Sheilla Silva Barbosa|Corrida 7KM
 Sidalia Alves Queiroz|Corrida 7KM
 Sidneia de Oliveira Pereira|Corrida 7KM
 Silvana Oliveira da Silva|Corrida 7KM
-Silvia Costa Correia|Caminhada 3KM
+Silvia Costa Correia|Corrida 7KM
 Silvia Regina Pinheiro Gomes Oliveira|Corrida 7KM
 Silvino Caitano da Silva Filho|Caminhada 3KM
 Simone dos Passos Santos|Corrida 7KM
@@ -601,7 +602,7 @@ Simone Morais Queiroz|Corrida 7KM
 Simone Souza de Araujo|Corrida 7KM
 Sirleia dos Santos Pinheiro|Corrida 7KM
 Sivoneide Santos Oliveira|Corrida 7KM
-Stefani Souza dos Santos|Caminhada 3KM
+Stefani Souza dos Santos|Corrida 7KM
 Stefany Santos de Jesus|Corrida 7KM
 Sumara Oliveira Matos|Corrida 7KM
 Susicley Oliveira Santana|Corrida 7KM
