@@ -19,6 +19,7 @@ Alessandra Pereira dos Santos|Corrida 7KM
 Alessandro Cardoso de Oliveira|Corrida 7KM
 Alesson Santana|Corrida 7KM
 Alex de Jesus Guerra c|Caminhada 3KM
+Alessandra Barbosa Lucas|Corrida 7KM
 Alexandra jesus oliveira|Caminhada 3KM
 Alexandra Santos de Souza|Corrida 7KM
 Alexandre Kalvin Barreto do Nascimento|Corrida 7KM
@@ -288,7 +289,7 @@ Jackson de Souza Bispo|Corrida 7KM
 Jadiel Benjamin Ferreira Soglia|Corrida 7KM
 Jadson dos santos|Corrida 7KM
 Jadson Evangelista de Jesus|Corrida 7KM
-Jafi Barbosa Santos|Corrida 7KM
+Jáfi Barbosa Santos|Corrida 7KM
 Jailane Souza Nunes|Caminhada 3KM
 Jaíne Barbosa Oliveira|Corrida 7KM
 Jamile Carvalho Leal|Corrida 7KM
