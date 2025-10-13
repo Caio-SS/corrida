@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>Lista de Inscritos - Corrida</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header class="container">
+    <h1>Lista de Inscritos</h1>
+    <p>Confira se seu nome está na lista e a categoria.</p>
+  </header>
+
+  <section class="container filtros">
+    <div class="campo">
+      <label for="searchInput">Buscar por nome</label>
+      <input type="text" id="searchInput" placeholder="Digite seu nome..." />
+    </div>
+
+    <div class="campo">
+      <label for="categoriaSelect">Categoria</label>
+      <select id="categoriaSelect">
+        <option value="">Todas</option>
+        <option value="">Caminhada 3 KM</option>
+        <option value="">Corrida 7 KM</option>
+      </select>
+    </div>
+  </section>
+
+  <section class="container">
+    <div class="status">
+      <span id="contador">0</span> resultado(s) encontrado(s)
+    </div>
+    <ul id="listaInscritos" class="lista"></ul>
+  </section>
+
+  <footer class="container rodape">
+    <p>Prefeitura de Brejões © Corrida</p>
+  </footer>
+
+  <script src="index.js"></script>
+</body>
+</html>

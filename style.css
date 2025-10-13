@@ -1,0 +1,190 @@
+* { box-sizing: border-box; }
+:root {
+  --prim: #0a66ff;
+  --bg: #f6f7fb;
+  --card: #fff;
+  --txt: #222;
+  --muted: #ffff;
+  --badge: #eef2ff;
+  --badge-txt: #3730a3;
+  --borda: #e5e7eb;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+  color: var(--txt);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* --- AQUI O TRUQUE DO BLUR --- */
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
+    url('/WhatsApp%20Image%202025-10-13%20at%2009.53.34.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(50px);
+  background-color: rgba(255, 255, 255, 0.2);
+  z-index: 0;
+}
+
+.container, header, .filtros, .item, .rodape {
+  position: relative;
+  z-index: 1;
+}
+
+/* --- resto do seu estilo --- */
+
+.container {
+  width: 100%;
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  margin: 8px 0 4px 0;
+  font-size: 2rem;
+  color: var(--prim);
+  background-color: rgba(255, 255, 255, 0.521);
+  backdrop-filter: blur(10px);
+  width: 100%;
+  max-width: 350px;
+  text-align: center;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+header p { 
+  color: var(--muted); 
+  margin: 0; 
+  text-align: center;
+}
+
+.filtros {
+  display: grid;
+  grid-template-columns: 1fr 220px;
+  gap: 12px;
+  margin-top: 12px;
+  width: 100%;
+}
+
+@media (max-width: 640px) {
+  .filtros { 
+    grid-template-columns: 1fr; 
+  }
+  header h1 {
+    font-size: 1.5rem;
+    max-width: 100%;
+  }
+  .container {
+    padding: 16px;
+  }
+}
+
+.campo { 
+  display: flex; 
+  flex-direction: column; 
+  gap: 6px; 
+}
+
+.campo label { 
+  font-size: .9rem; 
+  color: var(--muted); 
+  text-align: left;
+}
+
+.campo input, .campo select {
+  padding: 10px 12px;
+  border: 2px solid var(--borda);
+  border-radius: 10px;
+  outline: none;
+  background: #fff;
+  font-size: 1rem;
+  width: 100%;
+}
+
+.campo input:focus, .campo select:focus {
+  border-color: var(--prim);
+}
+
+.status {
+  font-size: .95rem;
+  color: var(--muted);
+  margin: 10px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.lista {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.item {
+  background: var(--card);
+  border: 1px solid var(--borda);
+  border-radius: 14px;
+  padding: 14px 16px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: transform .08s ease, box-shadow .08s ease;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.item:hover { 
+  transform: translateY(-1px); 
+  box-shadow: 0 6px 18px rgba(0,0,0,.06); 
+}
+
+.nome { 
+  font-weight: 600; 
+  flex: 1;
+  min-width: 150px;
+}
+
+.badge {
+  background: var(--badge);
+  color: var(--badge-txt);
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: .85rem;
+  border: 1px solid #c7d2fe;
+  white-space: nowrap;
+}
+
+.rodape { 
+  color: var(--muted); 
+  text-align: center; 
+  margin: 24px 0;
+  width: 100%;
+}
