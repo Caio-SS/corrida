@@ -12,14 +12,14 @@ Aira isabel moura miranda souza|Caminhada 3KM
 Alan Miranda Souza|Corrida 7KM
 Alana Castro Cerqueira|Corrida 7KM
 Alane Rosário Silva|Caminhada 3KM
-Albene Ramos Galvão Dias de Oliveira|Corrida 7KM
+Albene Ramos Galvão Dias de Oliveira|Caminhada 3KM
 Alécio Moraes dos Santos|Corrida 7KM
 Alesio Silva de Andrade|Corrida 7KM
 Alessandra Pereira dos Santos|Corrida 7KM
 Alessandro Cardoso de Oliveira|Corrida 7KM
 Alesson Santana|Corrida 7KM
 Alex de Jesus Guerra c|Caminhada 3KM
-Alexandra jesus oliveira|Corrida 7KM
+Alexandra jesus oliveira|Caminhada 3KM
 Alexandra Santos de Souza|Corrida 7KM
 Alexandre Kalvin Barreto do Nascimento|Corrida 7KM
 Alice Andrade Trindade Santos|Caminhada 3KM
@@ -53,7 +53,7 @@ André Menezes de Almeida Cardoso|Corrida 7KM
 Andrea Figueredo Machado|Caminhada 3KM
 Andreia da Cruz Brito|Corrida 7KM
 Andressa Bacelar de Santana pires|Corrida 7KM
-Andressa Coelho da silva|Corrida 7KM
+Andressa Coelho da silva|Caminhada 3KM
 Andressa Manuelle Macedo Silva|Caminhada 3KM
 Andressa Moraes Gonçalvez|Corrida 7KM
 Andreza Ribeiro Santana|Caminhada 3KM
@@ -61,7 +61,7 @@ Andreza Ribeiro Santana|Caminhada 3KM
 Angelito dos Santos Araújo|Corrida 7KM
 Anselmo Nascimento Macedo|Corrida 7KM
 Antoniel Fernandes de jesus teixeira|Caminhada 3KM
-Antonio carlos bastos gomes|Corrida 7KM
+Antonio carlos bastos gomes|Caminhada 3KM
 Antonio santos de Jesus filho|Corrida 7KM
 Antônio Silva de Santana|Corrida 7KM
 Arisclaudia de Almeida Santos|Corrida 7KM
@@ -82,7 +82,7 @@ Bruno Santos da cruz lins|Corrida 7KM
 Bruno Silva dos Anjos|Corrida 7KM
 Bruno Stefany Ribeiro dos Santos Oliveira|Corrida 7KM
 Cailane Santos Sales|Caminhada 3KM
-Cailane siilva gomes|Corrida 7KM
+Cailane silva gomes|Caminhada 3KM
 Carina Cerqueira Barreto|Caminhada 3KM
 Carla K Almeida|Corrida 7KM
 Carla samoli de oliveira|Corrida 7KM
@@ -96,7 +96,7 @@ CATIA PEREIRA DOS SANTOS|Corrida 7KM
 Célia Maria Oliveira Almeida de Argolo|Corrida 7KM
 Charles Clay dos Santos Oliveira|Corrida 7KM
 Claudia Girlandia Pereira Almeida |Caminhada 3KM
-Claudia pereira dos santos|Corrida 7KM
+Claudia pereira dos santos|Caminhada 3KM
 Claudina Santos de Lima|Caminhada 3KM
 Cláudio Gabriel Silva dos Santos Ferreira|Corrida 7KM
 Cleciane de Santana Tosta Nunes|Corrida 7KM
@@ -287,7 +287,7 @@ Jaciara Barbosa Oliveira|Corrida 7KM
 Jackson de Souza Bispo|Corrida 7KM
 Jadiel Benjamin Ferreira Soglia|Corrida 7KM
 Jadson dos santos|Corrida 7KM
-Jadson Evangelista de Jesus|Caminhada 3KM
+Jadson Evangelista de Jesus|Corrida 7KM
 Jafi Barbosa Santos|Corrida 7KM
 Jailane Souza Nunes|Caminhada 3KM
 Jaíne Barbosa Oliveira|Corrida 7KM
@@ -540,7 +540,7 @@ Reginaldo Brito dos Santos|Corrida 7KM
 Reginiane dos santos|Caminhada 3KM
 Reijane souza da silca|Corrida 7KM
 Reinaldo de Souza arruda Júnior|Corrida 7KM
-Reinaldo Moura da Silva Santana|Caminhada 3KM
+Reinaldo Moura da Silva Santana|Corrida 7KM
 Renata Almeida Silva|Corrida 7KM
 Renata armstrong|Corrida 7KM
 Renata Deodato Almeida|Corrida 7KM
@@ -632,7 +632,7 @@ Valdineia Silva Gomes|Corrida 7KM
 Valdir amorim dos santos|Corrida 7KM
 Valmon santos de jesus|Caminhada 3KM
 Valter Da Silva Santos Filho|Corrida 7KM
-Valter Dias de Oliveira Galvão|Corrida 7KM
+Valter Dias de Oliveira Galvão|Caminhada 3KM
 Vanessa da Silva Santos|Corrida 7KM
 Vânia Santos Silva Correia|Corrida 7KM
 Vera Lúcia Soares pedreira|Caminhada 3KM
