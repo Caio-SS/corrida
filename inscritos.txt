@@ -206,7 +206,7 @@ Fábio Henrique Gomes|Caminhada 3KM
 Fábio Mendes Lopes|Corrida 7KM
 Fábio Silva Vaz Moraes|Caminhada 3KM
 Fábio Uender de Oliveira dos Santos|Corrida 7KM
-Fabricia Helena Silva Andrade|Corrida 7KM
+Fabricia Helena Silva Andrade|Caminhada 3KM
 Fabrício de Jesus da Silva|Corrida 7KM
 Fátima Pereira dos Santos|Corrida 7KM
 Fernanda Acácia de Brito|Corrida 7KM
@@ -661,4 +661,4 @@ Wilma dos Santos Pereira|Corrida 7KM
 Yasmim Machado|Corrida 7KM
 Ycaro dos Santos Silva Andtade|Corrida 7KM
 Ysadora dos Santos Lima dos Santos|Corrida 7KM
-Zuleide Nascimento da Silva|Corrida 7KM
+Zuleide Nascimento da Silva|Caminhada 3KM
