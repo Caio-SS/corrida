@@ -61,7 +61,7 @@ Andreza Ribeiro Santana|Caminhada 3KM
 Ângela Helen de Jesus Santana|Corrida 7KM
 Angelito dos Santos Araújo|Corrida 7KM
 Anselmo Nascimento Macedo|Corrida 7KM
-Antoniel Fernandes de jesus teixeira|Caminhada 3KM
+Antoniel Fernandes de jesus teixeira|Corrida 7KM
 Antonio carlos bastos gomes|Caminhada 3KM
 Antonio santos de Jesus filho|Corrida 7KM
 Antônio Silva de Santana|Corrida 7KM
@@ -242,7 +242,7 @@ Gilmar Ribeiro dos Santos|Corrida 7KM
 Gilmara Souza Neri|Corrida 7KM
 Gilmaria da Silva Oliveira|Corrida 7KM
 Gilvan Brito dos Santos|Corrida 7KM
-Gilvan de Jesus Santos|Caminhada 3KM
+Gilvan de Jesus Santos|Corrida 7KM
 Giovanna Almdeida|Corrida 7KM
 Giovanna Cruz dos Santos Sampaio|Corrida 7KM
 Girlândia Reis Silva Santos|Corrida 7KM
@@ -309,7 +309,7 @@ Jeiel dos Santos Sampaio|Corrida 7KM
 Jeremias de Almeida Leal|Corrida 7KM
 jeremias teixeira soares|Corrida 7KM
 Jerusa Aragao|Corrida 7KM
-Jessica Galvão Mota|Caminhada 3KM
+Jessica Galvão Mota|Corrida 7KM
 Jessica Santos Bispo|Corrida 7KM
 Jeter Pereira de Souza|Corrida 7KM
 Jheniffer vitoria de souza Lessa|Corrida 7KM
@@ -367,7 +367,7 @@ Keila Maiana Queiroz Santiago|Caminhada 3KM
 Keroly Silva Fonseca|Corrida 7KM
 Késia santos de Oliveira|Corrida 7KM
 Kevin brito|Corrida 7KM
-Kezia Ramos Carvalho|Caminhada 3KM
+Kezia Ramos Carvalho|Corrida 7KM
 Lafaele cardoso de souza miranda|Caminhada 3KM
 Laiana Cruz de Souza|Caminhada 3KM
 Laila Vitória Oliveira dos Santos|Corrida 7KM
@@ -476,7 +476,7 @@ Matheus da cruz Santos|Caminhada 3KM
 Maxsiel Souza de Oliveira|Caminhada 3KM
 Maykon douglas dos santos da silva|Corrida 7KM
 Merian da Silva Chaves|Corrida 7KM
-Micaias Silva Dos Santos Sales|Caminhada 3KM
+Micaias Silva Dos Santos Sales|Corrida 7KM
 Milena Bispo Tito|Caminhada 3KM
 Mirele Dias da Silva|Corrida 7KM
 Mirella Chaves Araújo|Corrida 7KM
