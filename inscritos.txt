@@ -129,7 +129,7 @@ Daniela arcanjo de Santana|Corrida 7KM
 Daniela dos Santos Correia|Corrida 7KM
 Daniela Machado Marques|Corrida 7KM
 Daniela Oliveira Simão Nascimento|Corrida 7KM
-Daniela Rodrigues de Souza Oliveira|Caminhada 3KM
+Daniela Rodrigues de Souza Oliveira|Corrida 7KM
 Daniele de Jesus Oliveira|Corrida 7KM
 Daniele dos Santos|Corrida 7KM
 Daniele dos Santos Souza|Corrida 7KM
@@ -173,14 +173,14 @@ Eliedson dos Santos Teixeira|Corrida 7KM
 Elielson Santos|Corrida 7KM
 Eliene Amorim Dias Sena|Caminhada 3KM
 Eliene Ferreira dos Santos|Corrida 7KM
-Eliene Silva dos Santos|Corrida 7KM
+Eliene Silva dos Santos|Caminhada 3KM
 Elisa de jesus Andrade|Corrida 7KM
 Elisama de Jesus Andrade|Corrida 7KM
 Elisangela Souza da Silva|Corrida 7KM
 Elleine de Jesus Oliveira|Corrida 7KM
 Emanuel Lucas Pereira Dias|Corrida 7KM
 Enzo Cruz Santana|Corrida 7KM
-Erica de Jesus Almeida|Caminhada 3KM
+Erica de Jesus Almeida|Corrida 7KM
 Erica Almeida de Jesus|Corrida 7KM
 Érica Pereira dos Santos|Corrida 7KM
 Erick Luiz santos da Silva|Corrida 7KM
@@ -279,7 +279,7 @@ Isis Cunha Alves Marçal|Caminhada 3KM
 Ismael Ramos dos Santos|Corrida 7KM
 Ivan Silva Santos|Corrida 7KM
 Ivani de Fátima Teixeira|Caminhada 3KM
-Ivani de Jesus Furtuoso|Caminhada 3KM
+Ivani de Jesus Furtuoso|Corrida 7KM
 Ivanilce Almeida dos santos|Corrida 7KM
 Ivanilson da Silva Oliveira|Corrida 7KM
 Ivoneide Sales Leandro|Caminhada 3KM
@@ -336,7 +336,7 @@ Joceli figueredo mascarenhas|Corrida 7KM
 JOELMA REIS FERREIRA|Corrida 7KM
 Joelson Santana Ribeiro|Corrida 7KM
 Jofi barbosa santos|Corrida 7KM
-Joiciele costa santoss e santos|Corrida 7KM
+Joiciele costa santos e santos|Caminhada 3KM
 Jonatas de Almeida Correa|Corrida 7KM
 Jonhy Rodrigues de Oliveira|Corrida 7KM
 Jorge Luiz Palmito Rocha|Corrida 7KM
@@ -346,7 +346,8 @@ José Cosme Souza Sales|Caminhada 3KM
 José Elson Almeida da Silva|Corrida 7KM
 José Fernando Santos Marcal|Corrida 7KM
 José nilton de jesus Bispo filho|Corrida 7KM
-José Roberto Andrade Silva Filho|Caminhada 3KM
+José Roberto Andrade Silva Filho|Corrida 7KM
+jose roberto araujo de jesus|Corrida 7KM
 Josélia de jesus|Corrida 7KM
 Josias Araújo Pereira|Corrida 7KM
 Jozival Bispo Dos Santos|Corrida 7KM
@@ -381,6 +382,7 @@ Layla Mascarenhas Santos|Corrida 7KM
 Leandra Pereira Mota|Corrida 7KM
 Leandra Santos de Souza|Corrida 7KM
 Leandro dos santos oliveira|Corrida 7KM
+Leonardo Souza da Silva|Corrida 7KM
 Leandro Queiroz de Azevedo|Caminhada 3KM
 Leoni Leal dos Santos Ramos|Corrida 7KM
 Leticia souza de oliveira|Corrida 7KM
@@ -448,7 +450,7 @@ Maria da Glória Oliveira Santos|Caminhada 3KM
 Maria da paz Lomanto dos santos|Corrida 7KM
 Maria Dayane Lima|Corrida 7KM
 Maria de Jesus Santos|Corrida 7KM
-Maria Edna Ramos Ferreira|Corrida 7KM
+Maria Edna Ramos Ferreira|Caminhada 3KM
 Maria Eduarda Pessoa Ribeiro|Corrida 7KM
 maria Júlya da Silva Souza|Caminhada 3KM
 Maria Laura Andrade Alemida|Corrida 7KM
@@ -498,7 +500,7 @@ Natália Pereira La Macchia|Corrida 7KM
 Natália Rodrigues Lima|Corrida 7KM
 Natalice Ribeiro de Santana|Corrida 7KM
 Natasha Queiroz Peres|Caminhada 3KM
-Naura de souza barbosa de brito|Caminhada 3KM
+Naura de souza barbosa de brito|Corrida 7KM
 Nelson Borges Simão Medrado|Caminhada 3KM
 Neuma Lima dos Santos|Corrida 7KM
 Nilcelia de Araújo Nunes Amaral|Corrida 7KM
