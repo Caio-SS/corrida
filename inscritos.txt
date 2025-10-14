@@ -82,7 +82,7 @@ Bruno Márcio Santos Dantas|Corrida 7KM
 Bruno Santos da Cruz Lins|Corrida 7KM
 Bruno Silva dos Anjos|Corrida 7KM
 Bruno Stefany Ribeiro dos Santos Oliveira|Corrida 7KM
-Cailane Santos Sales|Caminhada 3KM
+Cailane Santos Sales|Corrida 7KM
 Cailane Silva Gomes|Caminhada 3KM
 Carina Cerqueira Barreto|Caminhada 3KM
 Carla K Almeida|Caminhada 3KM
@@ -126,6 +126,7 @@ Daíse Silva Santos Guedes|Corrida 7KM
 Daniel de Jesus Santos|Corrida 7KM
 Daniela Araújo de Deus|Caminhada 3KM
 Daniela Arcanjo de Santana|Corrida 7KM
+Daniele dos Santos de Souza|Caminhada 3KM
 Daniela dos Santos Correia|Corrida 7KM
 Daniela Machado Marques|Corrida 7KM
 Daniela Oliveira Simão Nascimento|Corrida 7KM
@@ -157,6 +158,7 @@ Edina Conceição Ferreira dos Santos Santana|Corrida 7KM
 Edionara S. S. dos Santos|Corrida 7KM
 Edivan Silva dos Santos|Corrida 7KM
 Edmilson Sampaio dos Santos|Corrida 7KM
+Edmar Souza Francisco|Caminhada 3KM
 Edna Duarte da Silva Pinheiro|Corrida 7KM
 Ednilson Boa Morte Santos Junior|Corrida 7KM
 Edson Barbosa da Silva|Corrida 7KM
@@ -184,6 +186,7 @@ Enzo Cruz Santana|Corrida 7KM
 Érica Almeida de Jesus|Corrida 7KM
 Érica Pereira dos Santos|Corrida 7KM
 Erick Luiz Santos da Silva|Corrida 7KM
+Eric Souza dos Santos|Corrida 7KM
 Erick Oliveira Santos|Corrida 7KM
 Erivaldo Francisco dos Santos|Caminhada 3KM
 Erivan de Freitas|Caminhada 3KM
@@ -359,7 +362,7 @@ Jucélia Gomes de Jesus Santos|Corrida 7KM
 Jucicleide Bastos de Oliveira|Corrida 7KM
 Jucineia de Jesus Santos|Caminhada 3KM
 Júlia Lima de Jesus|Corrida 7KM
-Juliana de Azevedo Oliveira|Caminhada 3KM
+Juliana de Azevedo Oliveira|Corrida 7KM
 Juliana Moraes Oliveira|Corrida 7KM
 Juliana Santos Campos|Corrida 7KM
 Karina dos Santos Pinheiro Almeida|Corrida 7KM
@@ -397,14 +400,14 @@ Luana de Jesus Souza|Corrida 7KM
 Luana Judy Araújo Silva|Corrida 7KM
 Luana Santos Silva Raimundo|Corrida 7KM
 Lucas Bonina Trindade|Corrida 7KM
-Lucas dos Santos Santana|Caminhada 3KM
+Lucas dos Santos Santana|Corrida 7KM
 Lucas Henrick Araújo|Corrida 7KM
 Lucas dos Santos Lessa|Corrida 7KM
 Lucas Moras da Hora|Corrida 7KM
 Lucas Sales de Araújo Queiroz|Corrida 7KM
 Lucas Souza Barbosa|Corrida 7KM
 Luciana Bomfim|Corrida 7KM
-Luciana Gonçalves Costa Sena|Caminhada 3KM
+Luciana Gonçalves Costa Sena|Corrida 7KM
 Luciana Santos Silva Gomes|Caminhada 3KM
 Luciana Sena Felix|Caminhada 3KM
 Luciane Maria dos Anjos Lima de Almeida|Corrida 7KM
