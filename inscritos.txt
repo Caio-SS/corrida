@@ -308,6 +308,7 @@ Jaqueline Alves dos Santos|Caminhada 3KM
 Jaqueline Costa Sobral de Santana|Corrida 7KM
 Jaqueline dos Santos Moraes|Corrida 7KM
 Jean Almeida dos Santos|Corrida 7KM
+Jean Kélen Araújo de Oliveira|Corrida 7KM
 Jeferson de Moura Souza Alves|Corrida 7KM
 Jefferson Gabriel Santos da Silva|Corrida 7KM
 Jeiel dos Santos Sampaio|Corrida 7KM
@@ -335,6 +336,7 @@ João Pedro de Jesus dos Santos|Corrida 7KM
 João Pedro Santos Chaves|Corrida 7KM
 João Santos da Silva|Corrida 7KM
 João Victor dos Santos|Corrida 7KM
+João Vitor Barbosa dos Santos|Corrida 7KM
 João.santos.da.Silha|Corrida 7KM
 Joaziel Souza de Jesus|Caminhada 3KM
 Joceli Figueiredo Mascarenhas|Corrida 7KM
@@ -432,7 +434,7 @@ Mael dos Santos Braga|Corrida 7KM
 Magnólia de Jesus Santos|Corrida 7KM
 Maiane Silva dos Anjos|Corrida 7KM
 Maíra Carvalho do Carmo|Corrida 7KM
-Marcelino Souza Santos Junior|Caminhada 3KM
+Marcelino Souza Santos Junior|Corrida 7KM
 Marcelo Alves Santos|Corrida 7KM
 Marcelo Henrique Oliveira Rocha|Corrida 7KM
 Márcia da Cruz Silva Oliveira|Corrida 7KM
@@ -562,7 +564,7 @@ Renivaldo Sandre Figueiredo Silva|Corrida 7KM
 Ricardo Castro Cerqueira|Corrida 7KM
 Ricardo de Jesus Santana|Corrida 7KM
 Ricardo Pereira de Jesus|Corrida 7KM
-Rita de Cáscia Silva Trindade Santos|Caminhada 3KM
+Rita de Cáscia Silva Trindade Santos|Corrida 7KM
 Roberto José Santos da Silva|Corrida 7KM
 Roberto Nunes dos Santos|Corrida 7KM
 Robson Clynton Oliveira Alves|Corrida 7KM
@@ -588,7 +590,8 @@ Rui Antonio Amaral Filho|Corrida 7KM
 Saionara Teixeira de Souza|Caminhada 3KM
 Samile Sales de Queiroz Fraga|Corrida 7KM
 Samuel de Jesus Lima|Corrida 7KM
-Sandra Santos da Silva Souza|Corrida 7KM
+Samara Souza dos Santos|Corrida 7KM
+Sandra Santos da Silva Souza|Caminhada 3KM
 Sara de Oliveira Santos|Caminhada 3KM
 Selma da Conceição Santos Suzart|Corrida 7KM
 Selma Santos Nascimento|Corrida 7KM
