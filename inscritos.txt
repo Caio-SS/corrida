@@ -39,7 +39,7 @@ Ana Carolina Barreto Castro Santos|Corrida 7KM
 Ana Carolina Jesus da Silva|Corrida 7KM
 Ana Caroline Oliveira dos Santos|Corrida 7KM
 Ana Cecília do Carmo Trindade|Corrida 7KM
-Ana Cláudia Cardoso|Caminhada 3KM
+Ana Cláudia Cardoso|Corrida 7KM
 Ana Luiza Alves Santos|Corrida 7KM
 Ana Paola Vieira Santedicola|Corrida 7KM
 Ana Paula Mota Andrade dos Santos|Corrida 7KM
@@ -57,7 +57,7 @@ Andressa Bacelar de Santana Pires|Corrida 7KM
 Andressa Coelho da Silva|Caminhada 3KM
 Andressa Manuelle Macedo Silva|Caminhada 3KM
 Andressa Moraes Gonçalvez|Corrida 7KM
-Andreza Ribeiro Santana|Caminhada 3KM
+Andreza Ribeiro Santana|Corrida 7KM
 Ângela Helen de Jesus Santana|Corrida 7KM
 Angelito dos Santos Araújo|Corrida 7KM
 Anselmo Nascimento Macedo|Corrida 7KM
@@ -150,6 +150,7 @@ Denny Silva|Corrida 7KM
 Diana dos Santos Lopes|Corrida 7KM
 Diego Oliveira Trindade|Corrida 7KM
 Douglas Moreira Leal|Corrida 7KM
+Edenildo Brito Franklin|Corrida 7KM
 Ediana Cruz dos Santos|Caminhada 3KM
 Ediane Oliveira Santana|Corrida 7KM
 Edilene dos Santos Soares|Caminhada 3KM
@@ -275,7 +276,7 @@ Igor Bastos Sousa|Corrida 7KM
 Ígor da Silva Barreto|Corrida 7KM
 Inez Machado de Araújo|Corrida 7KM
 Ingrid Oliveira de Novaes|Corrida 7KM
-Ingrid Santiago Silva|Caminhada 3KM
+Ingrid Santiago Silva|Corrida 7KM
 Irlanda Cardoso de Santana|Corrida 7KM
 Isabella Honorato Benfica da Costa|Corrida 7KM
 Isabelly Trindade Santos|Corrida 7KM
