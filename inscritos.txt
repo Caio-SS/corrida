@@ -38,7 +38,7 @@ Amanda Ribeiro Brandão|Corrida 7KM
 Ana Carolina Barreto Castro Santos|Corrida 7KM
 Ana Carolina Jesus da Silva|Corrida 7KM
 Ana Caroline Oliveira dos Santos|Corrida 7KM
-Ana Cecília do Carmo Trindade|Corrida 7KM
+Ana Cecília do Carmo Trindade|Caminhada 3KM
 Ana Cláudia Cardoso|Corrida 7KM
 Ana Luiza Alves Santos|Corrida 7KM
 Ana Paola Vieira Santedicola|Corrida 7KM
@@ -387,6 +387,7 @@ Larissa Gonçalves Leite|Corrida 7KM
 Larissa Mota Medeiros|Corrida 7KM
 Laryssa Santos Galrão|Corrida 7KM
 Laura Miranda Ferreira Ribeiro|Corrida 7KM
+Laura Iohanna | Corrida 7KM
 Layla Mascarenhas Santos|Corrida 7KM
 Leandra Pereira Mota|Corrida 7KM
 Leandra Santos de Souza|Corrida 7KM
@@ -484,7 +485,7 @@ Mateus de Oliveira Fernandes|Corrida 7KM
 Mateus Leite Oliveira|Corrida 7KM
 Mateus Moura Oliveira|Corrida 7KM
 Mateus Souza Barbosa|Corrida 7KM
-Matheus da Cruz Santos|Caminhada 3KM
+Matheus da Cruz Santos|Corrida 7KM
 Maxsiel Souza de Oliveira|Caminhada 3KM
 Maykon Douglas dos Santos da Silva|Corrida 7KM
 Merian da Silva Chaves|Corrida 7KM
