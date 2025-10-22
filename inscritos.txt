@@ -182,6 +182,7 @@ Elisama de Jesus Andrade|Corrida 7KM
 Elisângela Souza da Silva|Corrida 7KM
 Elleine de Jesus Oliveira|Corrida 7KM
 Emanuel Lucas Pereira Dias|Corrida 7KM
+Emanuele do Sacramento Silva dos Santos|Corrida 7KM
 Enzo Cruz Santana|Corrida 7KM
 Érica de Jesus Almeida|Corrida 7KM
 Érica Almeida de Jesus|Corrida 7KM
@@ -350,6 +351,7 @@ Jonhy Rodrigues de Oliveira|Corrida 7KM
 Jorge Luiz Palmito Rocha|Corrida 7KM
 Jorge Pereira da Silva|Corrida 7KM
 José Carlos Moraes|Corrida 7KM
+Josemar Bezerra da Silva|Corrida 7km
 José Cosme Souza Sales|Corrida 7KM
 José Elson Almeida da Silva|Corrida 7KM
 José Fernando Santos Marçal|Corrida 7KM
@@ -552,6 +554,7 @@ Raul Teste|Caminhada 3KM
 Regina da Silva Santos|Corrida 7KM
 Regina Santana Cerqueira|Corrida 7KM
 Reginaldo Brito dos Santos|Corrida 7KM
+Reginaldo Gonçalves de Oliveira|Caminhada 3KM
 Reginiane dos Santos|Caminhada 3KM
 Reijane Souza da Silca|Corrida 7KM
 Reinaldo de Souza Arruda Júnior|Corrida 7KM
@@ -601,6 +604,7 @@ Selma Santos Nascimento|Corrida 7KM
 Sérgio Luiz Moreira Borges|Corrida 7KM
 Sheilla Silva Barbosa|Corrida 7KM
 Sidalia Alves Queiroz|Corrida 7KM
+Sinval Santos Teixeira Júnior|Corrida 7KM
 Sidneia de Oliveira Pereira|Corrida 7KM
 Silvana Oliveira da Silva|Corrida 7KM
 Silvia Costa Correia|Corrida 7KM
